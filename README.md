@@ -1,2 +1,2 @@
 # DataWipeX
-Welocme TO DataWipeX
+Welcome TO DataWipeX

@@ -1,2 +1,2 @@
-# DataWIpeX
+# DataWipeX
 Welocme TO DataWipeX
